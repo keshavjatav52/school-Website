@@ -1,0 +1,12 @@
+body{
+    background-color: rgba(40,20,200,0.4);;
+    background-image: url();
+}
+
+.logo{
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 5rem;
+    height: 5rem;
+    border-radius: 5rem;
+}
